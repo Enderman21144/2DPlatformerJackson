@@ -1,4 +1,6 @@
 # 2DPlatformerJackson
+Repo to manage my 1st 2D platformer using Unity.
 
 
-This repo is for my first Unity Platformer game.
+
+I am filled with anticipation.
